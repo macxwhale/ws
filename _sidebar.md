@@ -1,5 +1,5 @@
 - Getting started
-  - [Introduction](intro.md)
+  - [Introduction](/)
   - [Features](features.md)
 
 - User Guide
@@ -12,4 +12,5 @@
 
 - [FAQ](faq.md)
 - [Road Map](roadmap.md)
-- [Changelog](changelog.md)
+- Changelog
+  - [v1.0 - Beta](v1.0Beta.md)
