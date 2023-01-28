@@ -1,29 +1,15 @@
 - Getting started
+  - [Introduction](intro.md)
+  - [Features](features.md)
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+- User Guide
 
-- Customization
+  - [Logging In](logging.md)
+  - [Managing Users](addingusers.md)
+  - [Managing Members](addingmembers.md)
+  - [Managing Payments](payments.md)
+  - [Managins Loans](loans.md)
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
+- [FAQ](faq.md)
+- [Road Map](roadmap.md)
 - [Changelog](changelog.md)
