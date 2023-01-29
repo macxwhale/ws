@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/money-bag.svg)
+![logo](_media/money-bag.svg ':size=75x75')
 
 # SabSacco <small>v1.0 Beta</small>
 
