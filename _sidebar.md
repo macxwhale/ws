@@ -1,9 +1,6 @@
 - Getting started
   - [Introduction](/)
   - [Features](features.md)
-
-- User Guide
-
   - [Logging In](logging.md)
   - [Managing Users](addingusers.md)
   - [Managing Members](addingmembers.md)
